@@ -1,0 +1,5 @@
+String str1 = "abc";
+String str2 = "ab";
+str2 = str2 + "c";
+str1.equals(str2)
+文字列が等しいか否かはequalsで調べる
